@@ -1,0 +1,440 @@
+{
+    "major_arcana": [
+        {
+            "number": 0,
+            "name": "The Fool",
+            "fullReading": "The Fool represents new beginnings, spontaneity, and a leap of faith. This card suggests you are at the start of a new journey, full of potential and possibilities. It encourages you to embrace the unknown with optimism and trust in the universe. While you may feel unprepared, this card reminds you that sometimes the best way to learn is through experience. Take that leap of faith, but remain mindful of your surroundings.",
+            "fullReadingBurmese": "The Fool ကတ်သည် အစပြုခြင်း၊ ရုတ်တရက်ဆန်ခြင်းနှင့် ယုံကြည်မှုဖြင့် ခုန်ချခြင်းကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင့်အား အလားအလာများစွာရှိသော ခရီးစဉ်အသစ်တစ်ခု၏ အစတွင် ရှိနေကြောင်း ညွှန်ပြသည်။ မသိသေးသော အရာများကို အကောင်မြင်စိတ်နှင့် ယုံကြည်မှုဖြင့် လက်ခံရန် အားပေးသည်။ သင်သည် မပြင်ဆင်ရသေးဟု ခံစားရသော်လည်း၊ ဤကတ်သည် တစ်ခါတစ်ရံတွင် အတွေ့အကြုံမှတစ်ဆင့် သင်ယူခြင်းသည် အကောင်းဆုံးနည်းလမ်းဖြစ်ကြောင်း သတိပေးသည်။ ယုံကြည်မှုဖြင့် ခုန်ချပါ၊ သို့သော် သင့်ပတ်ဝန်းကျင်ကို သတိထားပါ။"
+        },
+        {
+            "number": 1,
+            "name": "The Magician",
+            "fullReading": "The Magician represents manifestation, resourcefulness, and power. This card indicates that you have all the tools and resources you need to achieve your goals. It's a time of transformation and taking action. The Magician encourages you to focus your willpower and use your skills to create the reality you desire. This is a powerful time for manifestation and making things happen.",
+            "fullReadingBurmese": "The Magician ကတ်သည် အကောင်အထည်ဖော်ခြင်း၊ အရင်းအမြစ်များကို အသုံးချနိုင်စွမ်းနှင့် အာဏာကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင့်ရည်မှန်းချက်များကို အောင်မြင်ရန် လိုအပ်သော ကိရိယာများနှင့် အရင်းအမြစ်များ အားလုံးကို သင့်တွင် ရှိကြောင်း ညွှန်ပြသည်။ ၎င်းသည် အသွင်ပြောင်းခြင်းနှင့် လုပ်ဆောင်ခြင်း၏ အချိန်ဖြစ်သည်။ The Magician သည် သင့်စိတ်အားထက်သန်မှုကို အာရုံစိုက်ပြီး သင့်ကျွမ်းကျင်မှုများကို အသုံးပြု၍ သင်လိုလားသော အခြေအနေကို ဖန်တီးရန် အားပေးသည်။ ၎င်းသည် အကောင်အထည်ဖော်ခြင်းနှင့် အရာများကို ဖြစ်မြောက်စေရန် အားကောင်းသော အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 2,
+            "name": "The High Priestess",
+            "fullReading": "The High Priestess represents intuition, mystery, and inner wisdom. This card suggests that answers lie within your subconscious mind. It's a time to trust your intuition and pay attention to your dreams and inner voice. The High Priestess encourages you to look beyond the surface and explore the deeper meaning of situations. This is a time for spiritual growth and self-discovery.",
+            "fullReadingBurmese": "The High Priestess ကတ်သည် အလိုအလျောက်သိမြင်မှု၊ လျှို့ဝှက်ဆန်းကြယ်မှုနှင့် အတွင်းစိတ်၏ ဉာဏ်ပညာကို ကိုယ်စားပြုသည်။ ဤကတ်သည် အဖြေများသည် သင့်၏ အတွင်းစိတ်တွင် ရှိနေကြောင်း ညွှန်ပြသည်။ ၎င်းသည် သင့်၏ အလိုအလျောက်သိမြင်မှုကို ယုံကြည်ပြီး သင့်အိပ်မက်များနှင့် အတွင်းစိတ်၏ အသံကို အာရုံစိုက်ရန် အချိန်ဖြစ်သည်။ The High Priestess သည် မျက်နှာပြင်ကို ကျော်လွန်၍ အခြေအနေများ၏ နက်ရှိုင်းသော အဓိပ္ပာယ်ကို စူးစမ်းရန် အားပေးသည်။ ၎င်းသည် ဝိညာဉ်ရေးရာ တိုးတက်မှုနှင့် ကိုယ်တိုင်ရှာဖွေတွေ့ရှိခြင်း၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 3,
+            "name": "The Empress",
+            "fullReading": "The Empress represents abundance, nurturing, and creativity. This card suggests a time of fertility, growth, and material comfort. It encourages you to embrace your nurturing side and create beauty in your life. The Empress represents the divine feminine energy of creation and abundance. This is a time to focus on self-care, creativity, and bringing your ideas to fruition.",
+            "fullReadingBurmese": "The Empress ကတ်သည် ကြွယ်ဝမှု၊ ပြုစုပျိုးထောင်မှုနှင့် ဖန်တီးမှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် မျိုးပွားမှု၊ ကြီးထွားမှုနှင့် ရုပ်ဝတ္ထုအဆင်ပြေမှု၏ အချိန်ကို ညွှန်ပြသည်။ သင့်၏ ပြုစုပျိုးထောင်မှုဘက်ကို လက်ခံပြီး သင့်ဘဝတွင် အလှတရားကို ဖန်တီးရန် အားပေးသည်ያ The Empress သည် ဖန်တီးမှုနှင့် ကြွယ်ဝမှု၏ နတ်ဘုရားမ စွမ်းအင်ကို ကိုယ်စားပြုသည်။ ၎င်းသည် ကိုယ်တိုင်ဂရုစိုက်မှု၊ ဖန်တီးမှုနှင့် သင့်အတွေးများကို အသီးသီးစေရန် အာရုံစိုက်ရန် အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 4,
+            "name": "The Emperor",
+            "fullReading": "The Emperor represents authority, structure, and leadership. This card suggests a time to take control and establish order in your life. It encourages you to use logic and reason to make decisions. The Emperor represents the divine masculine energy of protection and stability. This is a time to set boundaries, make plans, and take charge of your situation.",
+            "fullReadingBurmese": "The Emperor ကတ်သည် အာဏာ၊ ဖွဲ့စည်းပုံနှင့် ခေါင်းဆောင်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင့်ဘဝတွင် ထိန်းချုပ်မှုယူပြီး အစီအစဉ်တကျဖြစ်စေရန် အချိန်ကို ညွှန်ပြသည်။ ဆုံးဖြတ်ချက်များချရာတွင် ယုတ္တိနှင့် အကြပြချက်ကို အသုံးပြုရန် အားပေးသည်။ The Emperor သည် ကာကွယ်မှုနှင့် တည်ငြိမ်မှု၏ နတ်ဘုရား စွမ်းအင်ကို ကိုယ်စားပြုသည်။ ၎င်းသည် နယ်နိမိတ်များသတ်မှတ်ရန်၊ အစီအစဉ်များချရန်နှင့် သင့်အခြေအနေကို တာဝန်ယူရန် အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 5,
+            "name": "The Hierophant",
+            "fullReading": "The Hierophant represents tradition, spiritual wisdom, and conformity. This card suggests a time to seek guidance from established systems or mentors. It encourages you to follow traditional paths and respect established rules. The Hierophant represents the bridge between the spiritual and material worlds. This is a time for learning, teaching, and following conventional wisdom.",
+            "fullReadingBurmese": "The Hierophant ကတ်သည် ရိုးရာဓလေ့၊ ဝိညာဉ်ရေးဉာဏ်ပညာနှင့် လိုက်လျောညီထွေဖြစ်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ထူထောင်ပြီးသော စနစ်များသို့မဟုတ် ဆရာများထံမှ အကြံဉာဏ်ရှာဖွေရန် အချိန်ကို ညွှန်ပြသည်။ ရိုးရာလမ်းကြောင်းများကို လိုက်နာပြီး ထူထောင်ပြီးသော စည်းမျဉ်းများကို လေးစားရန် အားပေးသည်။ The Hierophant သည် ဝိညာဉ်ရေးနှင့် ရုပ်ဝတ္ထုကမ္ဘာများအကြား တံတားကို ကိုယ်စားပြုသည်။ ၎င်းသည် သင်ယူခြင်း၊ သင်ကြားခြင်းနှင့် ရိုးရာဉာဏ်ပညာကို လိုက်နာခြင်း၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 6,
+            "name": "The Lovers",
+            "fullReading": "The Lovers represent relationships, choices, and harmony. This card suggests important decisions regarding relationships or values. It encourages you to follow your heart while maintaining balance. The Lovers represent the union of opposites and the power of choice. This is a time for making important decisions that align with your true values and desires.",
+            "fullReadingBurmese": "The Lovers ကတ်သည် ဆက်ဆံရေး၊ ရွေးချယ်မှုများနှင့် ဟန်ချက်ညီမှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ဆက်ဆံရေးသို့မဟုတ် တန်ဖိုးများနှင့်ပတ်သက်သော အရေးကြီးသော ဆုံးဖြတ်ချက်များကို ညွှန်ပြသည်။ ဟန်ချက်ညီစွာ ထိန်းသိမ်းရင်း သင့်နှလုံးသားကို လိုက်နာရန် အားပေးသည်။ The Lovers သည် ဆန့်ကျင်ဘက်များ၏ ပေါင်းစည်းမှုနှင့် ရွေးချယ်မှု၏ အာဏာကို ကိုယ်စားပြုသည်။ ၎င်းသည် သင့်၏ အမှန်တကယ်တန်ဖိုးများနှင့် ဆန္ဒများနှင့် ကိုက်ညီသော အရေးကြီးသော ဆုံးဖြတ်ချက်များချရန် အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 7,
+            "name": "The Chariot",
+            "fullReading": "The Chariot represents determination, victory, and willpower. This card suggests a time of forward movement and success through self-discipline. It encourages you to stay focused on your goals and maintain control. The Chariot represents the triumph of will over obstacles. This is a time to harness your energy and drive forward with confidence.",
+            "fullReadingBurmese": "The Chariot ကတ်သည် စိတ်ဓာတ်ခိုင်မာမှု၊ အောင်မြင်မှုနှင့် စိတ်အားထက်သန်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ကိုယ့်ကိုယ်ကို ထိန်းချုပ်မှုမှတစ်ဆင့် ရှေ့သို့ရွေ့လျားမှုနှင့် အောင်မြင်မှု၏ အချိန်ကို ညွှန်ပြသည်။ သင့်ရည်မှန်းချက်များကို အာရုံစိုက်ပြီး ထိန်းချုပ်မှုကို ထိန်းသိမ်းရန် အားပေးသည်။ The Chariot သည် အဟန့်အတားများအပေါ် စိတ်ဓာတ်၏ အောင်ပွဲကို ကိုယ်စားပြုသည်။ ၎င်းသည် သင့်စွမ်းအင်ကို အသုံးချပြီး ယုံကြည်မှုဖြင့် ရှေ့သို့တွန်းရန် အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 8,
+            "name": "Strength",
+            "fullReading": "Strength represents courage, patience, and inner power. This card suggests a time to face challenges with grace and determination. It encourages you to use your inner strength rather than brute force. Strength represents the power of gentle persuasion and quiet confidence. This is a time to trust in your abilities and face difficulties with compassion.",
+            "fullReadingBurmese": "Strength ကတ်သည် သတ္တိ၊ သည်းခံမှုနှင့် အတွင်းစွမ်းအားကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ဂုဏ်သိက္ခာနှင့် စိတ်ဓာတ်ခိုင်မာမှုဖြင့် စိန်ခေါ်မှုများကို ရင်ဆိုင်ရန် အချိန်ကို ညွှန်ပြသည်။ အားကြီးသော အင်အားထက် သင့်၏ အတွင်းစွမ်းအားကို အသုံးပြုရန် အားပေးသည်။ Strength သည် နူးညံ့သိမ်မွေ့သော စည်းရုံးမှု၏ အာဏာနှင့် တိတ်ဆိတ်သော ယုံကြည်မှုကို ကိုယ်စားပြုသည်။ ၎င်းသည် သင့်စွမ်းရည်များကို ယုံကြည်ပြီး ကရုဏာဖြင့် အခက်အခဲများကို ရင်ဆိုင်ရန် အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 9,
+            "name": "The Hermit",
+            "fullReading": "The Hermit represents introspection, wisdom, and solitude. This card suggests a time for self-reflection and seeking inner guidance. It encourages you to withdraw from the world to find answers within. The Hermit represents the wisdom that comes from solitude and contemplation. This is a time for spiritual growth and personal understanding.",
+            "fullReadingBurmese": "The Hermit ကတ်သည် အတွင်းစိတ်ဆန်းစစ်ခြင်း၊ ဉာဏ်ပညာနှင့် တစ်ကိုယ်တည်းနေခြင်းကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ကိုယ်တိုင်ဆန်းစစ်ခြင်းနှင့် အတွင်းလမ်းညွှန်မှုကို ရှာဖွေရန် အချိန်ကို ညွှန်ပြသည်။ အတွင်းမှ အဖြေများကို ရှာဖွေရန် ကမ္ဘာမှ ဆုတ်ခွာရန် အားပေးသည်။ The Hermit သည် တစ်ကိုယ်တည်းနေခြင်းနှင့် တွေးတောဆင်ခြင်ခြင်းမှ လာသော ဉာဏ်ပညာကို ကိုယ်စားပြုသည်။ ၎င်းသည် ဝိညာဉ်ရေးရာ တိုးတက်မှုနှင့် ကိုယ်ပိုင်နားလည်မှု၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 10,
+            "name": "Wheel of Fortune",
+            "fullReading": "The Wheel of Fortune represents change, cycles, and destiny. This card suggests that life is in constant motion and change is inevitable. It encourages you to embrace the ups and downs of life. The Wheel represents the cyclical nature of existence and the role of fate. This is a time of significant change and new opportunities.",
+            "fullReadingBurmese": "Wheel of Fortune ကတ်သည် အပြောင်းအလဲ၊ စက်ဝန်းများနှင့် ကံြမ္မာကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ဘဝသည် အဆက်မပြတ် ရွေ့လျားနေပြီး အပြောင်းအလဲသည် ရှောင်လွှဲ၍မရကြောင်း ညွှန်ပြသည်။ ဘဝ၏ အထက်အောက်များကို လက်ခံရန် အားပေးသည်။ Wheel သည် တည်ရှိမှု၏ စက်ဝန်းသဘောနှင့် ကံြမ္မာ၏ အခန်းကဏ္ဍကို ကိုယ်စားပြုသည်။ ၎င်းသည် အရေးကြီးသော အပြောင်းအလဲနှင့် အခွင့်အလမ်းအသစ်များ၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 11,
+            "name": "Justice",
+            "fullReading": "Justice represents fairness, truth, and law. This card suggests a time of balance and accountability. It encourages you to make fair decisions and take responsibility for your actions. Justice represents the universal law of cause and effect. This is a time for making important decisions and facing the consequences of your choices.",
+            "fullReadingBurmese": "Justice ကတ်သည် တရားမျှတမှု၊ အမှန်တရားနှင့် ဥပဒေကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ဟန်ချက်ညီမှုနှင့် တာဝန်ယူမှု၏ အချိန်ကို ညွှန်ပြသည်။ တရားမျှတသော ဆုံးဖြတ်ချက်များချပြီး သင့်လုပ်ရပ်များအတွက် တာဝန်ယူရန် အားပေးသည်။ Justice သည် အကြောင်းတရားနှင့် အကျိုးသက်ရောက်မှု၏ ကမ္ဘာလုံးဆိုင်ရာ ဥပဒေကို ကိုယ်စားပြုသည်။ ၎င်းသည် အရေးကြီးသော ဆုံးဖြတ်ချက်များချရန်နှင့် သင့်ရွေးချယ်မှုများ၏ အကျိုးဆက်များကို ရင်ဆိုင်ရန် အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 12,
+            "name": "The Hanged Man",
+            "fullReading": "The Hanged Man represents surrender, letting go, and new perspectives. This card suggests a time of voluntary sacrifice and seeing things differently. It encourages you to pause and look at situations from a new angle. The Hanged Man represents the wisdom that comes from surrender. This is a time for spiritual growth through letting go.",
+            "fullReadingBurmese": "The Hanged Man ကတ်သည် အရှုံးပေးခြင်း၊ လွှတ်ချခြင်းနှင့် အမြင်သစ်များကို ကိုယ်စားပြုသည်။ ဤကတ်သည် စေတနာ့ဝန်ထမ်းစွန့်လွှတ်မှုနှင့် အရာများကို ကွဲပြားစွာ မြင်ရန် အချိန်ကို ညွှန်ပြသည်။ ရပ်တန့်ပြီး အခြေအနေများကို အမြင်သစ်မှ ကြည့်ရန် အားပေးသည်။ The Hanged Man သည် အရှုံးပေးခြင်းမှ လာသော ဉာဏ်ပညာကို ကိုယ်စားပြုသည်။ ၎င်းသည် လွှတ်ချခြင်းမှတစ်ဆင့် ဝိညာဉ်ရေးရာ တိုးတက်မှု၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 13,
+            "name": "Death",
+            "fullReading": "Death represents transformation, endings, and new beginnings. This card suggests significant change and the end of a cycle. It encourages you to embrace transformation and let go of what no longer serves you. Death represents the natural cycle of life and rebirth. This is a time for profound change and personal growth.",
+            "fullReadingBurmese": "Death ကတ်သည် အသွင်ပြောင်းခြင်း၊ အဆုံးသတ်ခြင်းနှင့် အစပြုခြင်းအသစ်များကို ကိုယ်စားပြုသည်။ ဤကတ်သည် အရေးကြီးသော အပြောင်းအလဲနှင့် စက်ဝန်းတစ်ခု၏ အဆုံးကို ညွှန်ပြသည်။ အသွင်ပြောင်းခြင်းကို လက်ခံပြီး သင့်အား အကျိုးမပြုတော့သော အရာများကို လွှတ်ချရန် အားပေးသည်။ Death သည် ဘဝ၏ သဘာဝစက်ဝန်းနှင့် ပြန်လည်မွေးဖွားခြင်းကို ကိုယ်စားပြုသည်။ ၎င်းသည် နက်ရှိုင်းသော အပြောင်းအလဲနှင့် ကိုယ်ပိုင်တိုးတက်မှု၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 14,
+            "name": "Temperance",
+            "fullReading": "Temperance represents balance, moderation, and patience. This card suggests a time to find harmony in your life. It encourages you to practice moderation and find the middle path. Temperance represents the blending of opposites and finding equilibrium. This is a time for healing and finding balance in all aspects of life.",
+            "fullReadingBurmese": "Temperance ကတ်သည် ဟန်ချက်ညီမှု၊ အလယ်အလတ်နှင့် သည်းခံမှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင့်ဘဝတွင် ဟန်ချက်ညီမှုကို ရှာဖွေရန် အချိန်ကို ညွှန်ပြသည်။ အလယ်အလတ်ကျင့်သုံးပြီး အလယ်လမ်းကို ရှာဖွေရန် အားပေးသည်။ Temperance သည် ဆန့်ကျင်ဘက်များ၏ ရောစပ်မှုနှင့် ဟန်ချက်ညီမှုကို ရှာဖွေခြင်းကို ကိုယ်စားပြုသည်။ ၎င်းသည် အနာပျောက်ခြင်းနှင့် ဘဝ၏ ရှုထောင့်အားလုံးတွင် ဟန်ချက်ညီမှုကို ရှာဖွေခြင်း၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 15,
+            "name": "The Devil",
+            "fullReading": "The Devil represents bondage, materialism, and unhealthy attachments. This card suggests being trapped by negative patterns or addictions. It encourages you to examine what is holding you back and break free from limiting beliefs. The Devil represents the shadow side of human nature. This is a time to confront your fears and release unhealthy attachments.",
+            "fullReadingBurmese": "The Devil ကတ်သည် ကျွန်ပြုခြင်း၊ ရုပ်ဝတ္ထုလိုက်စားမှုနှင့် မကျန်းမာသော ဆက်နွယ်မှုများကို ကိုယ်စားပြုသည်။ ဤကတ်သည် အနုတ်လက္ခဏာဆောင်သော အလေ့အထများ သို့မဟုတ် စွဲလမ်းမှုများဖြင့် ပိတ်မိနေခြင်းကို ညွှန်ပြသည်။ သင့်အား နောက်ပြန်ဆွဲထားသောအရာများကို စစ်ဆေးပြီး ကန့်သတ်ထားသော ယုံကြည်ချက်များမှ လွတ်မြောက်ရန် အားပေးသည်။ The Devil သည် လူသား၏ သဘာဝ၏ အရိပ်ဘက်ကို ကိုယ်စားပြုသည်။ ၎င်းသည် သင့်ကြောက်ရွံ့မှုများကို ရင်ဆိုင်ပြီး မကျန်းမာသော ဆက်နွယ်မှုများမှ လွှတ်ချရန် အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 16,
+            "name": "The Tower",
+            "fullReading": "The Tower represents sudden change, revelation, and awakening. This card suggests a dramatic upheaval that leads to transformation. It encourages you to embrace necessary change, even if it's uncomfortable. The Tower represents the destruction of false structures. This is a time for breaking free from illusions and rebuilding on a stronger foundation.",
+            "fullReadingBurmese": "The Tower ကတ်သည် အသွင်ပြောင်းခြင်း၊ အဆုံးသတ်ခြင်းနှင့် အစပြုခြင်းအသစ်များကို ကိုယ်စားပြုသည်။ ဤကတ်သည် အရေးကြီးသော အပြောင်းအလဲနှင့် စက်ဝန်းတစ်ခု၏ အဆုံးကို ညွှန်ပြသည်။ အသွင်ပြောင်းခြင်းကို လက်ခံပြီး သင့်အား အကျိုးမပြုတော့သော အရာများကို လွှတ်ချရန် အားပေးသည်။ The Tower သည် ဘဝ၏ သဘာဝစက်ဝန်းနှင့် ပြန်လည်မွေးဖွားခြင်းကို ကိုယ်စားပြုသည်။ ၎င်းသည် နက်ရှိုင်းသော အပြောင်းအလဲနှင့် ကိုယ်ပိုင်တိုးတက်မှု၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 17,
+            "name": "The Star",
+            "fullReading": "The Star represents hope, inspiration, and serenity. This card suggests a time of healing and renewed faith. It encourages you to trust in the universe and follow your dreams. The Star represents guidance and spiritual connection. This is a time for optimism, creativity, and following your true path.",
+            "fullReadingBurmese": "The Star ကတ်သည် မျှော်လင့်ချက်၊ စေ့ဆော်မှုနှင့် ငြိမ်းချမ်းမှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ပျောကင်းခြင်းနှင့် ယုံကြည်မှုအသစ်၏ အချိန်ကို ညွှန်ပြသည်။ စကြာဝဠာကို ယုံကြည်ပြီး သင့်အိပ်မက်များကို လိုက်စားရန် အားပေးသည်။ The Star သည် လမ်းညွှန်မှုနှင့် ဝိညာဉ်ရေးဆက်သွယ်မှုကို ကိုယ်စားပြုသည်။ ၎င်းသည် အကောင်းမြင်မှု၊ ဖန်တီးမှုနှင့် သင့်အစစ်အမှန် လမ်းကြောင်းကို လိုက်နာခြင်း၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 18,
+            "name": "The Moon",
+            "fullReading": "The Moon represents illusion, intuition, and the subconscious. This card suggests a time of uncertainty and emotional confusion. It encourages you to trust your intuition and explore your subconscious mind. The Moon represents the mysteries of the night and the power of dreams. This is a time for self-discovery and facing your fears.",
+            "fullReadingBurmese": "The Moon ကတ်သည် မှားယွင်းသော ထင်မြင်ချက်၊ အလိုလိုသိခြင်းနှင့် အတွင်းစိတ်ကို ကိုယ်စားပြုသည်။ ဤကတ်သည် မသေချာမှုနှင့် စိတ်ခံစားမှု ရှုပ်ထွေးမှု၏ အချိန်ကို ညွှန်ပြသည်။ သင့်အလိုလိုသိခြင်းကို ယုံကြည်ပြီး သင့်အတွင်းစိတ်ကို စူးစမ်းရန် အားပေးသည်။ The Moon သည် ည၏ လျှို့ဝှက်ဆန်းကြယ်မှုများနှင့် အိပ်မက်များ၏ စွမ်းအားကို ကိုယ်စားပြုသည်။ ၎င်းသည် ကိုယ်တိုင်ရှာဖွေတွေ့ရှိခြင်းနှင့် သင့်ကြောက်ရွံ့မှုများကို ရင်ဆိုင်ခြင်း၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 19,
+            "name": "The Sun",
+            "fullReading": "The Sun represents joy, success, and vitality. This card suggests a time of happiness and achievement. It encourages you to embrace life with enthusiasm and confidence. The Sun represents the light of truth and the warmth of success. This is a time for celebration and sharing your light with others.",
+            "fullReadingBurmese": "The Sun ကတ်သည် ဝမ်းမြောက်ခြင်း၊ အောင်မြင်မှုနှင့် အားအင်ကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ပျော်ရွှင်မှုနှင့် အောင်မြင်မှု၏ အချိန်ကို ညွှန်ပြသည်။ စိတ်အားထက်သန်မှုနှင့် ယုံကြည်မှုဖြင့် ဘဝကို လက်ခံရန် အားပေးသည်။ The Sun သည် အမှန်တရား၏ အလင်းနှင့် အောင်မြင်မှု၏ အပူကို ကိုယ်စားပြုသည်။ ၎င်းသည် ကျင်းပခြင်းနှင့် အခြားသူများနှင့် သင့်အလင်းကို မျှဝေခြင်း၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 20,
+            "name": "Judgement",
+            "fullReading": "Judgement represents awakening, renewal, and self-evaluation. This card suggests a time of reflection and important decisions. It encourages you to listen to your inner calling and make necessary changes. Judgement represents the moment of truth and the opportunity for transformation. This is a time for rebirth and following your true purpose.",
+            "fullReadingBurmese": "Judgement ကတ်သည် နိုးထခြင်း၊ အသစ်ပြန်လည်မွေးဖွားခြင်းနှင့် ကိုယ်တိုင်အကဲဖြတ်ခြင်းကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ဆင်ခြင်သုံးသပ်မှုနှင့် အရေးကြီးသော ဆုံးဖြတ်ချက်များ၏ အချိန်ကို ညွှန်ပြသည်။ သင့်အတွင်းစိတ်၏ ခေါ်သံကို နားထောင်ပြီး လိုအပ်သော အပြောင်းအလဲများကို ပြုလုပ်ရန် အားပေးသည်။ Judgement သည် အမှန်တရား၏ အချိန်နှင့် အသွင်ပြောင်းခြင်း၏ အခွင့်အလမ်းကို ကိုယ်စားပြုသည်။ ၎င်းသည် အသစ်ပြန်လည်မွေးဖွားခြင်းနှင့် သင့်အစစ်အမှန် ရည်ရွယ်ချက်ကို လိုက်နာခြင်း၏ အချိန်ဖြစ်သည်။"
+        },
+        {
+            "number": 21,
+            "name": "The World",
+            "fullReading": "The World represents completion, fulfillment, and wholeness. This card suggests a time of achievement and celebration. It encourages you to recognize your accomplishments and embrace new opportunities. The World represents the successful conclusion of a life cycle and the beginning of a new one. This is a time for gratitude and moving forward with confidence.",
+            "fullReadingBurmese": "The World ကတ်သည် ပြီးဆုံးခြင်း၊ အောင်မြင်မှုနှင့် ပြည့်စုံခြင်းကို ကိုယ်စားပြုသည်။ ဤကတ်သည် အောင်မြင်မှုနှင့် ကျင်းပခြင်း၏ အချိန်ကို ညွှန်ပြသည်။ သင့်အောင်မြင်မှုများကို အသိအမှတ်ပြုပြီး အခွင့်အလမ်းအသစ်များကို လက်ခံရန် အားပေးသည်။ The World သည် ဘဝစက်ဝန်း၏ အောင်မြင်စွာ အဆုံးသတ်ခြင်းနှင့် အသစ်၏ အစကို ကိုယ်စားပြုသည်။ ၎င်းသည် ကျေးဇူးတင်ခြင်းနှင့် ယုံကြည်မှုဖြင့် ရှေ့ဆက်လှမ်းခြင်း၏ အချိန်ဖြစ်သည်။"
+        }
+    ],
+    "minor_arcana": {
+        "wands": [
+            {
+                "number": 22,
+                "name": "Ace of Wands",
+                "fullReading": "The Ace of Wands represents new beginnings, inspiration, and creative energy. This card suggests the spark of a new idea or project. It encourages you to embrace your creative potential and take action on your passions. The Ace of Wands represents the initial burst of energy that starts a new venture. This is a time for inspiration, enthusiasm, and taking the first step toward your goals.",
+                "fullReadingBurmese": "Ace of Wands ကတ်သည် အစပြုခြင်းအသစ်များ၊ စေ့ဆော်မှုနှင့် ဖန်တီးမှုစွမ်းအင်ကို ကိုယ်စားပြုသည်။ ဤကတ်သည် အကြံဉာဏ်အသစ် သို့မဟုတ် စီမံကိန်းတစ်ခု၏ အစကို ညွှန်ပြသည်။ သင့်၏ ဖန်တီးမှုစွမ်းရည်ကို လက်ခံပြီး သင့်စိတ်အားထက်သန်မှုများကို လုပ်ဆောင်ရန် အားပေးသည်။ Ace of Wands သည် စီမံကိန်းအသစ်တစ်ခုကို စတင်သော စွမ်းအင်ပထမဆုံး ပေါက်ကွဲမှုကို ကိုယ်စားပြုသည်။ ၎င်းသည် စေ့ဆော်မှု၊ စိတ်အားထက်သန်မှုနှင့် သင့်ရည်မှန်းချက်များဆီသို့ ပထမဆုံးခြေလှမ်းကို လှမ်းရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 23,
+                "name": "Two of Wands",
+                "fullReading": "The Two of Wands represents planning, future vision, and personal power. This card suggests you are at a crossroads, making important decisions about your future. It encourages you to think big and plan for long-term success. The Two of Wands represents the balance between planning and action. This is a time for making strategic decisions and considering your options carefully.",
+                "fullReadingBurmese": "Two of Wands ကတ်သည် အစီအစဉ်ချခြင်း၊ အနာဂတ်မြင်ကွင်းနှင့် ကိုယ်ပိုင်အာဏာကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင်သည် လမ်းဆုံတစ်ခုတွင် ရှိနေပြီး သင့်အနာဂတ်နှင့်ပတ်သက်သော အရေးကြီးသော ဆုံးဖြတ်ချက်များကို ချနေကြောင်း ညွှန်ပြသည်။ ကြီးမားစွာ တွေးတောပြီး ရေရှည်အောင်မြင်မှုအတွက် အစီအစဉ်ချရန် အားပေးသည်။ Two of Wands သည် အစီအစဉ်ချခြင်းနှင့် လုပ်ဆောင်ခြင်းကြား ဟန်ချက်ညီမှုကို ကိုယ်စားပြုသည်။ ၎င်းသည် နည်းဗျူဟာကျသော ဆုံးဖြတ်ချက်များချရန်နှင့် သင့်ရွေးချယ်စရာများကို ဂရုတစိုက် စဉ်းစားရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 24,
+                "name": "Three of Wands",
+                "fullReading": "The Three of Wands represents progress, expansion, and foresight. This card suggests your plans are beginning to take shape and show results. It encourages you to look ahead and prepare for future opportunities. The Three of Wands represents the first signs of success and the need for continued effort. This is a time for maintaining momentum and preparing for growth.",
+                "fullReadingBurmese": "Three of Wands ကတ်သည် တိုးတက်မှု၊ ချဲ့ထွင်မှုနှင့် ရှေ့ဖြစ်ကို ကြိုတင်မြင်ခြင်းကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင့်အစီအစဉ်များသည် အသွင်သဏ္ဍာန်စတင်ယူနေပြီး ရလဒ်များကို ပြသနေကြောင်း ညွှန်ပြသည်။ ရှေ့သို့ကြည့်ပြီး အနာဂတ်အခွင့်အလမ်းများအတွက် ပြင်ဆင်ရန် အားပေးသည်။ Three of Wands သည် အောင်မြင်မှု၏ ပထမဆုံးလက္ခဏာများနှင့် ဆက်လက်အားထုတ်မှု၏ လိုအပ်ချက်ကို ကိုယ်စားပြုသည်။ ၎င်းသည် အရှိန်ကို ထိန်းသိမ်းရန်နှင့် တိုးတက်မှုအတွက် ပြင်ဆင်ရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 25,
+                "name": "Four of Wands",
+                "fullReading": "The Four of Wands represents celebration, harmony, and homecoming. This card suggests a time of joy, stability, and achievement. It encourages you to celebrate your successes and enjoy the fruits of your labor. The Four of Wands represents the completion of a significant phase and the beginning of a new one. This is a time for celebration, relaxation, and enjoying your accomplishments.",
+                "fullReadingBurmese": "Four of Wands ကတ်သည် ကျင်းပခြင်း၊ ဟန်ချက်ညီမှုနှင့် အိမ်ပြန်ခြင်းကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ပျော်ရွှင်မှု၊ တည်ငြိမ်မှုနှင့် အောင်မြင်မှု၏ အချိန်ကို ညွှန်ပြသည်။ သင့်အောင်မြင်မှုများကို ကျင်းပပြီး သင့်လုပ်အား၏ အသီးအပွင့်များကို ခံစားရန် အားပေးသည်။ Four of Wands သည် အရေးကြီးသော အဆင့်တစ်ခု၏ ပြီးဆုံးခြင်းနှင့် အသစ်တစ်ခု၏ အစကို ကိုယ်စားပြုသည်။ ၎င်းသည် ကျင်းပခြင်း၊ အနားယူခြင်းနှင့် သင့်အောင်မြင်မှုများကို ခံစားရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 26,
+                "name": "Five of Wands",
+                "fullReading": "The Five of Wands represents competition, conflict, and challenges. This card suggests you may be facing opposition or competition in your endeavors. It encourages you to stand your ground and defend your position. The Five of Wands represents the need to prove yourself and overcome obstacles. This is a time for healthy competition and testing your skills.",
+                "fullReadingBurmese": "Five of Wands ကတ်သည် ပြိုင်ဆိုင်မှု၊ ပဋိပက္ခနှင့် စိန်ခေါ်မှုများကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင့်ကြိုးပမ်းမှုများတွင် ဆန့်ကျင်ဘက်ဖြစ်မှု သို့မဟုတ် ပြိုင်ဆိုင်မှုကို ရင်ဆိုင်နေရကြောင်း ညွှန်ပြသည်။ သင့်နေရာကို ခိုင်မာစွာရပ်တည်ပြီး သင့်အနေအထားကို ကာကွယ်ရန် အားပေးသည်။ Five of Wands သည် သင့်ကိုယ်သင် သက်သေပြရန်နှင့် အဟန့်အတားများကို ကျော်လွှားရန် လိုအပ်ချက်ကို ကိုယ်စားပြုသည်။ ၎င်းသည် ကျန်းမာသော ပြိုင်ဆိုင်မှုနှင့် သင့်ကျွမ်းကျင်မှုများကို စမ်းသပ်ရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 27,
+                "name": "Six of Wands",
+                "fullReading": "The Six of Wands represents victory, recognition, and success. This card suggests you are achieving your goals and receiving acknowledgment for your efforts. It encourages you to celebrate your achievements and share your success. The Six of Wands represents public recognition and the rewards of hard work. This is a time for enjoying your success and inspiring others.",
+                "fullReadingBurmese": "Six of Wands ကတ်သည် အောင်ပွဲ၊ အသိအမှတ်ပြုခြင်းနှင့် အောင်မြင်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင်သည် သင့်ရည်မှန်းချက်များကို အောင်မြင်နေပြီး သင့်ကြိုးပမ်းမှုများအတွက် အသိအမှတ်ပြုခြင်းကို ရရှိနေကြောင်း ညွှန်ပြသည်။ သင့်အောင်မြင်မှုများကို ကျင်းပပြီး သင့်အောင်မြင်မှုကို မျှဝေရန် အားပေးသည်။ Six of Wands သည် အများပြည်သူအသိအမှတ်ပြုခြင်းနှင့် ကြိုးစားအားထုတ်မှု၏ အကျိုးဆက်များကို ကိုယ်စားပြုသည်။ ၎င်းသည် သင့်အောင်မြင်မှုကို ခံစားရန်နှင့် အခြားသူများကို စေ့ဆော်ရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 28,
+                "name": "Seven of Wands",
+                "fullReading": "The Seven of Wands represents defense, perseverance, and standing your ground. This card suggests you may need to defend your position or beliefs. It encourages you to stay strong in the face of opposition. The Seven of Wands represents the need to protect what you've built. This is a time for standing firm and maintaining your boundaries.",
+                "fullReadingBurmese": "Seven of Wands ကတ်သည် ကာကွယ်မှု၊ ဇွဲလုံ့လနှင့် သင့်နေရာကို ခိုင်မာစွာရပ်တည်ခြင်းကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင်သည် သင့်အနေအထား သို့မဟုတ် ယုံကြည်ချက်များကို ကာကွယ်ရန် လိုအပ်နိုင်ကြောင်း ညွှန်ပြသည်။ ဆန့်ကျင်ဘက်ဖြစ်မှုကို ရင်ဆိုင်ရာတွင် ခိုင်မာစွာရပ်တည်ရန် အားပေးသည်။ Seven of Wands သည် သင်တည်ဆောက်ထားသောအရာကို ကာကွယ်ရန် လိုအပ်ချက်ကို ကိုယ်စားပြုသည်။ ၎င်းသည် ခိုင်မာစွာရပ်တည်ရန်နှင့် သင့်နယ်နိမိတ်များကို ထိန်းသိမ်းရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 29,
+                "name": "Eight of Wands",
+                "fullReading": "The Eight of Wands represents swift action, movement, and progress. This card suggests rapid developments and forward momentum. It encourages you to act quickly and seize opportunities. The Eight of Wands represents the acceleration of events and the need for decisive action. This is a time for quick decisions and rapid progress.",
+                "fullReadingBurmese": "Eight of Wands ကတ်သည် လျင်မြန်သော လုပ်ဆောင်မှု၊ ရွေ့လျားမှုနှင့် တိုးတက်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် အလျင်အမြန် တိုးတက်မှုများနှင့် ရှေ့သို့တွန်းအားကို ညွှန်ပြသည်။ အခွင့်အလမ်းများကို လျင်မြန်စွာ လုပ်ဆောင်ပြီး ဆုပ်ကိုင်ရန် အားပေးသည်။ Eight of Wands သည် အဖြစ်အပျက်များ၏ အရှိန်မြှင့်တင်မှုနှင့် ဆုံးဖြတ်ချက်ချသော လုပ်ဆောင်မှု၏ လိုအပ်ချက်ကို ကိုယ်စားပြုသည်။ ၎င်းသည် လျင်မြန်သော ဆုံးဖြတ်ချက်များနှင့် အလျင်အမြန် တိုးတက်မှုအတွက် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 30,
+                "name": "Nine of Wands",
+                "fullReading": "The Nine of Wands represents resilience, persistence, and inner strength. This card suggests you've been through challenges but remain standing. It encourages you to stay strong and maintain your defenses. The Nine of Wands represents the wisdom gained through experience and the need for continued vigilance. This is a time for drawing on your inner strength and staying the course.",
+                "fullReadingBurmese": "Nine of Wands ကတ်သည် ခံနိုင်ရည်ရှိမှု၊ ဇွဲလုံ့လနှင့် အတွင်းစွမ်းအားကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင်သည် စိန်ခေါ်မှုများကို ဖြတ်သန်းခဲ့ပြီး ဆက်လက်ရပ်တည်နေကြောင်း ညွှန်ပြသည်။ ခိုင်မာစွာရပ်တည်ပြီး သင့်ကာကွယ်မှုများကို ထိန်းသိမ်းရန် အားပေးသည်။ Nine of Wands သည် အတွေ့အကြုံမှ ရရှိသော ဉာဏ်ပညာနှင့် ဆက်လက်နိုးကြားမှု၏ လိုအပ်ချက်ကို ကိုယ်စားပြုသည်။ ၎င်းသည် သင့်အတွင်းစွမ်းအားကို အသုံးချရန်နှင့် လမ်းကြောင်းကို ဆက်လက်လိုက်နာရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 31,
+                "name": "Ten of Wands",
+                "fullReading": "The Ten of Wands represents burden, responsibility, and hard work. This card suggests you may be carrying too much or feeling overwhelmed. It encourages you to delegate tasks and lighten your load. The Ten of Wands represents the weight of responsibility and the need for balance. This is a time for reassessing your commitments and finding ways to reduce stress.",
+                "fullReadingBurmese": "Ten of Wands ကတ်သည် ဝန်ထုပ်၊ တာဝန်ယူမှုနှင့် ကြိုးစားအားထုတ်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင်သည် အလွန်အမင်း ထမ်းပိုးနေရခြင်း သို့မဟုတ် ဖိစီးမှုခံစားနေရကြောင်း ညွှန်ပြသည်။ အလုပ်များကို အခြားသူများထံ လွှဲပြောင်းပြီး သင့်ဝန်ထုပ်ကို ပေါ့ပါးစေရန် အားပေးသည်။ Ten of Wands သည် တာဝန်ယူမှု၏ အလေးချိန်နှင့် ဟန်ချက်ညီမှု၏ လိုအပ်ချက်ကို ကိုယ်စားပြုသည်။ ၎င်းသည် သင့်ကတိကဝတ်များကို ပြန်လည်ဆန်းစစ်ရန်နှင့် ဖိစီးမှုလျှော့ချရန် နည်းလမ်းများကို ရှာဖွေရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 32,
+                "name": "Page of Wands",
+                "fullReading": "The Page of Wands represents exploration, enthusiasm, and new ideas. This card suggests a time of discovery and learning. It encourages you to embrace new opportunities with curiosity and excitement. The Page of Wands represents the youthful energy of new beginnings. This is a time for exploring new interests and following your passions.",
+                "fullReadingBurmese": "Page of Wands ကတ်သည် စူးစမ်းလေ့လာခြင်း၊ စိတ်အားထက်သန်မှုနှင့် အကြံဉာဏ်အသစ်များကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ရှာဖွေတွေ့ရှိခြင်းနှင့် သင်ယူခြင်း၏ အချိန်ကို ညွှန်ပြသည်။ စူးစမ်းလိုစိတ်နှင့် စိတ်လှုပ်ရှားမှုဖြင့် အခွင့်အလမ်းအသစ်များကို လက်ခံရန် အားပေးသည်။ Page of Wands သည် အစပြုခြင်းအသစ်များ၏ လူငယ်စွမ်းအင်ကို ကိုယ်စားပြုသည်။ ၎င်းသည် စိတ်ဝင်စားမှုအသစ်များကို စူးစမ်းလေ့လာရန်နှင့် သင့်စိတ်အားထက်သန်မှုများကို လိုက်စားရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 33,
+                "name": "Knight of Wands",
+                "fullReading": "The Knight of Wands represents action, adventure, and passion. This card suggests a time of movement and excitement. It encourages you to pursue your goals with energy and enthusiasm. The Knight of Wands represents the drive to achieve and the courage to take risks. This is a time for bold action and following your passions.",
+                "fullReadingBurmese": "Knight of Wands ကတ်သည် လုပ်ဆောင်မှု၊ စွန့်စားမှုနှင့် စိတ်အားထက်သန်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ရွေ့လျားမှုနှင့် စိတ်လှုပ်ရှားမှု၏ အချိန်ကို ညွှန်ပြသည်။ စွမ်းအင်နှင့် စိတ်အားထက်သန်မှုဖြင့် သင့်ရည်မှန်းချက်များကို လိုက်စားရန် အားပေးသည်။ Knight of Wands သည် အောင်မြင်မှုအတွက် တွန်းအားနှင့် စွန့်စားမှုယူရန် သတ္တိကို ကိုယ်စားပြုသည်။ ၎င်းသည် ရဲရင့်သော လုပ်ဆောင်မှုနှင့် သင့်စိတ်အားထက်သန်မှုများကို လိုက်စားရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 34,
+                "name": "Queen of Wands",
+                "fullReading": "The Queen of Wands represents confidence, charisma, and leadership. This card suggests a time of personal power and influence. It encourages you to embrace your natural leadership abilities. The Queen of Wands represents the balance of warmth and strength. This is a time for expressing your creativity and inspiring others.",
+                "fullReadingBurmese": "Queen of Wands ကတ်သည် ယုံကြည်မှု၊ ဆွဲဆောင်မှုနှင့် ခေါင်းဆောင်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ကိုယ်ပိုင်အာဏာနှင့် ဩဇာလွှမ်းမိုးမှု၏ အချိန်ကို ညွှန်ပြသည်။ သင့်၏ သဘာဝခေါင်းဆောင်မှုစွမ်းရည်များကို လက်ခံရန် အားပေးသည်။ Queen of Wands သည် နွေးထွေးမှုနှင့် အားအင်ကြား ဟန်ချက်ညီမှုကို ကိုယ်စားပြုသည်။ ၎င်းသည် သင့်ဖန်တီးမှုကို ဖော်ပြရန်နှင့် အခြားသူများကို စေ့ဆော်ရန် အချိန်ဖြစ်သည်။"
+            },
+            {
+                "number": 35,
+                "name": "King of Wands",
+                "fullReading": "The King of Wands represents vision, leadership, and bold action. This card suggests a time of taking charge and making things happen. It encourages you to lead with confidence and inspire others. The King of Wands represents the mature expression of creative power. This is a time for decisive action and visionary leadership.",
+                "fullReadingBurmese": "King of Wands ကတ်သည် မြင်ကွင်း၊ ခေါင်းဆောင်မှုနှင့် ရဲရင့်သော လုပ်ဆောင်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် တာဝန်ယူပြီး အရာများကို ဖြစ်မြောက်စေရန် အချိန်ကို ညွှန်ပြသည်။ ယုံကြည်မှုဖြင့် ဦးဆောင်ပြီး အခြားသူများကို စေ့ဆော်ရန် အားပေးသည်။ King of Wands သည် ဖန်တီးမှုစွမ်းအား၏ ရင့်ကျက်သော ဖော်ပြမှုကို ကိုယ်စားပြုသည်။ ၎င်းသည် ဆုံးဖြတ်ချက်ချသော လုပ်ဆောင်မှုနှင့် မြင်ကွင်းရှိသော ခေါင်းဆောင်မှုအတွက် အချိန်ဖြစ်သည်။"
+            }
+        ],
+        "cups": [
+            {
+                "number": 36,
+                "name": "Ace of Cups",
+                "fullReading": "The Ace of Cups represents new emotional beginnings, love, and intuition. This card suggests the start of a new emotional journey or relationship. It encourages you to open your heart to new possibilities and trust your intuition. The Ace of Cups represents the purest form of emotional energy and spiritual connection. This is a time for emotional renewal and following your heart."
+            },
+            {
+                "number": 37,
+                "name": "Two of Cups",
+                "fullReading": "The Two of Cups represents partnership, connection, and mutual attraction. This card suggests a meaningful connection or relationship based on mutual understanding. It encourages you to nurture your relationships and seek emotional harmony. The Two of Cups represents the balance of giving and receiving in relationships. This is a time for building strong connections and emotional bonds."
+            },
+            {
+                "number": 38,
+                "name": "Three of Cups",
+                "fullReading": "The Three of Cups represents celebration, friendship, and joy. This card suggests a time of social connection and shared happiness. It encourages you to celebrate with others and enjoy the company of friends. The Three of Cups represents the joy of community and shared experiences. This is a time for celebration, friendship, and emotional fulfillment."
+            },
+            {
+                "number": 39,
+                "name": "Four of Cups",
+                "fullReading": "The Four of Cups represents contemplation, meditation, and emotional withdrawal. This card suggests a time of introspection and emotional assessment. It encourages you to look within and evaluate your emotional needs. The Four of Cups represents the need for emotional space and reflection. This is a time for self-examination and emotional clarity."
+            },
+            {
+                "number": 40,
+                "name": "Five of Cups",
+                "fullReading": "The Five of Cups represents loss, grief, and emotional processing. This card suggests you may be focusing on what has been lost rather than what remains. It encourages you to acknowledge your feelings while also recognizing the positive aspects of your situation. The Five of Cups represents the process of emotional healing. This is a time for processing loss and finding emotional balance."
+            },
+            {
+                "number": 41,
+                "name": "Six of Cups",
+                "fullReading": "The Six of Cups represents nostalgia, childhood memories, and innocence. This card suggests a time of reconnecting with the past or revisiting childhood experiences. It encourages you to embrace the simple joys of life and reconnect with your inner child. The Six of Cups represents the comfort of familiar experiences. This is a time for reflection on the past and emotional healing."
+            },
+            {
+                "number": 42,
+                "name": "Seven of Cups",
+                "fullReading": "The Seven of Cups represents choices, imagination, and fantasy. This card suggests you may be facing multiple options or possibilities. It encourages you to carefully evaluate your choices and distinguish between fantasy and reality. The Seven of Cups represents the need for clear decision-making. This is a time for careful consideration and practical thinking."
+            },
+            {
+                "number": 43,
+                "name": "Eight of Cups",
+                "fullReading": "The Eight of Cups represents walking away, emotional growth, and new directions. This card suggests it may be time to leave something behind in search of greater fulfillment. It encourages you to follow your heart and seek deeper meaning. The Eight of Cups represents the courage to move on from what no longer serves you. This is a time for emotional growth and new beginnings."
+            },
+            {
+                "number": 44,
+                "name": "Nine of Cups",
+                "fullReading": "The Nine of Cups represents emotional satisfaction, wishes fulfilled, and contentment. This card suggests a time of emotional fulfillment and happiness. It encourages you to appreciate what you have and enjoy the present moment. The Nine of Cups represents the achievement of emotional goals. This is a time for gratitude and emotional well-being."
+            },
+            {
+                "number": 45,
+                "name": "Ten of Cups",
+                "fullReading": "The Ten of Cups represents emotional fulfillment, family harmony, and lasting happiness. This card suggests a time of emotional completion and family unity. It encourages you to appreciate your relationships and create a harmonious environment. The Ten of Cups represents the achievement of emotional goals and family happiness. This is a time for celebrating love and connection."
+            },
+            {
+                "number": 46,
+                "name": "Page of Cups",
+                "fullReading": "The Page of Cups represents emotional exploration, creativity, and new feelings. This card suggests a time of emotional discovery and creative expression. It encourages you to explore your feelings and express yourself creatively. The Page of Cups represents the beginning of emotional understanding. This is a time for emotional growth and creative exploration."
+            },
+            {
+                "number": 47,
+                "name": "Knight of Cups",
+                "fullReading": "The Knight of Cups represents romance, creativity, and emotional pursuit. This card suggests a time of following your heart and pursuing your dreams. It encourages you to express your feelings and embrace your creative side. The Knight of Cups represents the pursuit of emotional fulfillment. This is a time for romantic gestures and creative expression."
+            },
+            {
+                "number": 48,
+                "name": "Queen of Cups",
+                "fullReading": "The Queen of Cups represents emotional wisdom, intuition, and compassion. This card suggests a time of deep emotional understanding and empathy. It encourages you to trust your intuition and nurture others. The Queen of Cups represents the mature expression of emotional intelligence. This is a time for emotional leadership and compassionate understanding."
+            },
+            {
+                "number": 49,
+                "name": "King of Cups",
+                "fullReading": "The King of Cups represents emotional balance, wisdom, and diplomacy. This card suggests a time of emotional maturity and balanced leadership. It encourages you to lead with compassion and understanding. The King of Cups represents the mastery of emotional intelligence. This is a time for emotional leadership and wise decision-making."
+            }
+        ],
+        "swords": [
+            {
+                "number": 50,
+                "name": "Ace of Swords",
+                "fullReading": "The Ace of Swords represents mental clarity, truth, and breakthrough. This card suggests a moment of clear thinking and new understanding. It encourages you to cut through confusion and see the truth of a situation. The Ace of Swords represents the power of clear thought and decisive action. This is a time for mental clarity and making important decisions."
+            },
+            {
+                "number": 51,
+                "name": "Two of Swords",
+                "fullReading": "The Two of Swords represents difficult choices, indecision, and stalemate. This card suggests you may be facing a difficult decision or feeling stuck between options. It encourages you to carefully weigh your choices and trust your intuition. The Two of Swords represents the need for balanced decision-making. This is a time for careful consideration and finding middle ground."
+            },
+            {
+                "number": 52,
+                "name": "Three of Swords",
+                "fullReading": "The Three of Swords represents heartbreak, sorrow, and emotional pain. This card suggests you may be experiencing emotional distress or disappointment. It encourages you to acknowledge your pain and begin the healing process. The Three of Swords represents the necessary pain of growth and change. This is a time for emotional healing and acceptance."
+            },
+            {
+                "number": 53,
+                "name": "Four of Swords",
+                "fullReading": "The Four of Swords represents rest, recovery, and contemplation. This card suggests a need for mental and physical rest. It encourages you to take time for reflection and recuperation. The Four of Swords represents the importance of rest and mental preparation. This is a time for healing, meditation, and gathering strength."
+            },
+            {
+                "number": 54,
+                "name": "Five of Swords",
+                "fullReading": "The Five of Swords represents conflict, defeat, and winning at a cost. This card suggests you may be involved in a situation where someone wins at another's expense. It encourages you to consider the consequences of your actions and choose your battles wisely. The Five of Swords represents the price of victory and the importance of fair play. This is a time for considering the impact of your actions on others."
+            },
+            {
+                "number": 55,
+                "name": "Six of Swords",
+                "fullReading": "The Six of Swords represents transition, moving on, and leaving difficulties behind. This card suggests you are moving away from a difficult situation toward calmer waters. It encourages you to accept change and look forward to better times. The Six of Swords represents the journey from difficulty to peace. This is a time for transition and moving forward."
+            },
+            {
+                "number": 56,
+                "name": "Seven of Swords",
+                "fullReading": "The Seven of Swords represents deception, strategy, and stealth. This card suggests you may need to be cautious about others' intentions or your own actions. It encourages you to be aware of potential deception and protect your interests. The Seven of Swords represents the need for careful planning and awareness. This is a time for caution and strategic thinking."
+            },
+            {
+                "number": 57,
+                "name": "Eight of Swords",
+                "fullReading": "The Eight of Swords represents restriction, self-imposed limitations, and feeling trapped. This card suggests you may be feeling limited or restricted in some way. It encourages you to recognize that many limitations are self-imposed and can be overcome. The Eight of Swords represents the power of perspective and the ability to break free. This is a time for recognizing your freedom and taking action."
+            },
+            {
+                "number": 58,
+                "name": "Nine of Swords",
+                "fullReading": "The Nine of Swords represents anxiety, worry, and mental anguish. This card suggests you may be experiencing excessive worry or anxiety. It encourages you to address your fears and seek support. The Nine of Swords represents the need to confront and overcome anxiety. This is a time for addressing worries and finding peace of mind."
+            },
+            {
+                "number": 59,
+                "name": "Ten of Swords",
+                "fullReading": "The Ten of Swords represents rock bottom, betrayal, and new beginnings. This card suggests you may be experiencing a difficult ending or betrayal. It encourages you to recognize that this is the lowest point and things can only improve. The Ten of Swords represents the end of a difficult cycle and the promise of renewal. This is a time for accepting endings and preparing for new beginnings."
+            },
+            {
+                "number": 60,
+                "name": "Page of Swords",
+                "fullReading": "The Page of Swords represents curiosity, new ideas, and mental agility. This card suggests a time of intellectual exploration and learning. It encourages you to be curious and open to new ideas. The Page of Swords represents the beginning of intellectual understanding. This is a time for mental exploration and developing new skills."
+            },
+            {
+                "number": 61,
+                "name": "Knight of Swords",
+                "fullReading": "The Knight of Swords represents action, ambition, and direct communication. This card suggests a time of decisive action and clear communication. It encourages you to pursue your goals with determination and clarity. The Knight of Swords represents the drive to achieve through clear thinking and action. This is a time for decisive action and direct communication."
+            },
+            {
+                "number": 62,
+                "name": "Queen of Swords",
+                "fullReading": "The Queen of Swords represents clarity, independence, and honest communication. This card suggests a time of clear thinking and honest expression. It encourages you to speak your truth with wisdom and compassion. The Queen of Swords represents the balance of intellect and compassion. This is a time for clear communication and independent thinking."
+            },
+            {
+                "number": 63,
+                "name": "King of Swords",
+                "fullReading": "The King of Swords represents intellectual power, clear judgment, and authority. This card suggests a time of making important decisions and exercising authority. It encourages you to use your intellect and experience to make fair judgments. The King of Swords represents the mastery of intellect and clear thinking. This is a time for leadership and wise decision-making."
+            }
+        ],
+        "pentacles": [
+            {
+                "number": 64,
+                "name": "Ace of Pentacles",
+                "fullReading": "The Ace of Pentacles represents new financial opportunities, prosperity, and material gain. This card suggests the beginning of a new financial venture or opportunity. It encourages you to be open to new sources of income and material success. The Ace of Pentacles represents the potential for financial growth and stability. This is a time for new financial beginnings and material abundance."
+            },
+            {
+                "number": 65,
+                "name": "Two of Pentacles",
+                "fullReading": "The Two of Pentacles represents balance, adaptability, and juggling priorities. This card suggests you may be managing multiple responsibilities or financial matters. It encourages you to find balance and adapt to changing circumstances. The Two of Pentacles represents the need for flexibility and time management. This is a time for balancing priorities and maintaining stability."
+            },
+            {
+                "number": 66,
+                "name": "Three of Pentacles",
+                "fullReading": "The Three of Pentacles represents teamwork, craftsmanship, and mastery. This card suggests collaboration and the development of skills. It encourages you to work with others and focus on quality. The Three of Pentacles represents the value of teamwork and dedication to craft. This is a time for collaboration and skill development."
+            },
+            {
+                "number": 67,
+                "name": "Four of Pentacles",
+                "fullReading": "The Four of Pentacles represents security, control, and conservation. This card suggests a focus on financial security and material stability. It encourages you to protect your resources while remaining open to sharing. The Four of Pentacles represents the balance between security and generosity. This is a time for financial planning and resource management."
+            },
+            {
+                "number": 68,
+                "name": "Five of Pentacles",
+                "fullReading": "The Five of Pentacles represents financial hardship, isolation, and seeking help. This card suggests you may be experiencing financial difficulties or feeling excluded. It encourages you to seek support and recognize available resources. The Five of Pentacles represents the importance of community support during difficult times. This is a time for seeking help and recognizing available resources."
+            },
+            {
+                "number": 69,
+                "name": "Six of Pentacles",
+                "fullReading": "The Six of Pentacles represents generosity, charity, and sharing resources. This card suggests a time of giving and receiving support. It encourages you to be generous while maintaining balance. The Six of Pentacles represents the flow of resources and mutual support. This is a time for sharing resources and practicing generosity."
+            },
+            {
+                "number": 70,
+                "name": "Seven of Pentacles",
+                "fullReading": "The Seven of Pentacles represents assessment, patience, and long-term planning. This card suggests a time to evaluate your progress and plan for the future. It encourages you to be patient and consider long-term goals. The Seven of Pentacles represents the value of careful planning and assessment. This is a time for evaluating progress and planning next steps."
+            },
+            {
+                "number": 71,
+                "name": "Eight of Pentacles",
+                "fullReading": "The Eight of Pentacles represents skill development, dedication, and craftsmanship. This card suggests a focus on developing skills and improving your work. It encourages you to dedicate yourself to mastery and quality. The Eight of Pentacles represents the value of hard work and attention to detail. This is a time for skill development and dedicated effort."
+            },
+            {
+                "number": 72,
+                "name": "Nine of Pentacles",
+                "fullReading": "The Nine of Pentacles represents independence, luxury, and self-sufficiency. This card suggests a time of enjoying the fruits of your labor. It encourages you to appreciate your achievements and independence. The Nine of Pentacles represents the rewards of hard work and self-reliance. This is a time for enjoying success and personal freedom."
+            },
+            {
+                "number": 73,
+                "name": "Ten of Pentacles",
+                "fullReading": "The Ten of Pentacles represents wealth, legacy, and family security. This card suggests long-term financial security and family stability. It encourages you to focus on building a lasting legacy. The Ten of Pentacles represents the achievement of financial goals and family prosperity. This is a time for securing your future and building lasting wealth."
+            },
+            {
+                "number": 74,
+                "name": "Page of Pentacles",
+                "fullReading": "The Page of Pentacles represents learning, new opportunities, and practical skills. This card suggests a time of developing new skills and exploring opportunities. It encourages you to be open to learning and practical development. The Page of Pentacles represents the beginning of practical knowledge and skill development. This is a time for learning and exploring new opportunities."
+            },
+            {
+                "number": 75,
+                "name": "Knight of Pentacles",
+                "fullReading": "The Knight of Pentacles represents responsibility, hard work, and methodical progress. This card suggests a time of steady progress and dedicated effort. It encourages you to be thorough and reliable in your work. The Knight of Pentacles represents the value of consistent effort and responsibility. This is a time for steady progress and reliable action."
+            },
+            {
+                "number": 76,
+                "name": "Queen of Pentacles",
+                "fullReading": "The Queen of Pentacles represents nurturing, practicality, and financial security. This card suggests a time of providing for others and managing resources wisely. It encourages you to balance practicality with nurturing care. The Queen of Pentacles represents the mature expression of practical wisdom and care. This is a time for managing resources and providing support."
+            },
+            {
+                "number": 77,
+                "name": "King of Pentacles",
+                "fullReading": "The King of Pentacles represents abundance, security, and practical leadership. This card suggests a time of financial success and practical wisdom. It encourages you to lead with practical knowledge and financial acumen. The King of Pentacles represents the mastery of material resources and practical leadership. This is a time for financial leadership and practical decision-making."
+            }
+        ]
+    }
+} 

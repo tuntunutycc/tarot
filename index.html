@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarot Cards</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Tarot Prediction By AI</h1>
+    
+    <!-- Shuffle step -->
+    <div class="shuffle-container">
+        <div class="card-wrapper shuffle-wrapper">
+            <div class="card-label">Shuffle Deck</div>
+            <div class="card shuffle-card" onclick="shuffleDeck()">
+                <div class="card-inner">
+                    <div class="card-back"></div>
+                    <div class="card-front">
+                        <div class="card-name">Shuffle</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button class="shuffle-button" onclick="revealCards()">Reveal Cards</button>
+    </div>
+    
+    <div class="cards-container">
+        <div class="card-wrapper">
+            <div class="card-label">အတိတ်</div>
+            <div class="card" onclick="flipCard(this, 'past')">
+                <div class="card-inner">
+                    <div class="card-back"></div>
+                    <div class="card-front">
+                        <div class="card-name"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper">
+            <div class="card-label">ပစ္စုပ္ပန်</div>
+            <div class="card" onclick="flipCard(this, 'present')">
+                <div class="card-inner">
+                    <div class="card-back"></div>
+                    <div class="card-front">
+                        <div class="card-name"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper">
+            <div class="card-label">အနာဂတ်</div>
+            <div class="card" onclick="flipCard(this, 'future')">
+                <div class="card-inner">
+                    <div class="card-back"></div>
+                    <div class="card-front">
+                        <div class="card-name"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="reading-display" id="readingDisplay">
+        <h2 id="readingTitle"></h2>
+        <p id="readingText"></p>
+        <button class="reset-button" onclick="resetCards()">Reset Cards</button>
+    </div>
+
+    <script src="tarot.js"></script>
+</body>
+</html>
