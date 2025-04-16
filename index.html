@@ -7,12 +7,12 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Tarot Prediction By AI</h1>
+    <h1>မနေမယ တားရော့</h1>
     
     <!-- Shuffle step -->
     <div class="shuffle-container">
         <div class="card-wrapper shuffle-wrapper">
-            <div class="card-label">Shuffle Deck</div>
+            <div class="card-label"> ကဒ်များကို မွှေပါ </div>
             <div class="card shuffle-card" onclick="shuffleDeck()">
                 <div class="card-inner">
                     <div class="card-back"></div>
@@ -22,7 +22,7 @@
                 </div>
             </div>
         </div>
-        <button class="shuffle-button" onclick="revealCards()">Reveal Cards</button>
+        <button class="shuffle-button" onclick="revealCards()">ကဒ်သုံးကဒ် ဆွဲပါမည်</button>
     </div>
     
     <div class="cards-container">
@@ -64,7 +64,9 @@
     <div class="reading-display" id="readingDisplay">
         <h2 id="readingTitle"></h2>
         <p id="readingText"></p>
-        <button class="reset-button" onclick="resetCards()">Reset Cards</button>
+        <div class="reset-button-container">
+            <button class="reset-button" onclick="resetCards()">နောက်တစ်ကြိမ် ဆွဲပါမည်</button>
+        </div>
     </div>
 
     <script src="tarot.js"></script>
