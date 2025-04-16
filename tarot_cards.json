@@ -396,71 +396,85 @@
             {
                 "number": 64,
                 "name": "Ace of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်တစ်ချပ်သည် ငွေကြေးဆိုင်ရာ အခွင့်အလမ်းသစ်များ၊ ကြွယ်ဝချမ်းသာမှုနှင့် ရုပ်ဝတ္ထုပိုင်းဆိုင်ရာ အကျိုးအမြတ်များကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ငွေကြေးဆိုင်ရာ စီးပွားရေးလုပ်ငန်းသစ် သို့မဟုတ် အခွင့်အလမ်းတစ်ခု၏ အစကို ညွှန်ပြသည်။ ဝင်ငွေအသစ်များနှင့် ရုပ်ဝတ္ထုပိုင်းဆိုင်ရာ အောင်မြင်မှုအတွက် ပွင့်လင်းစွာ လက်ခံရန် တိုက်တွန်းထားသည်။ ပင်တကယ်တစ်ချပ်သည် ငွေကြေးတိုးတက်မှုနှင့် တည်ငြိမ်မှု၏ အလားအလာကို ကိုယ်စားပြုသည်။ ဤသည်မှာ ငွေကြေးဆိုင်ရာ အစပျိုးမှုအသစ်များနှင့် ရုပ်ဝတ္ထုပိုင်းဆိုင်ရာ ပြည့်စုံကြွယ်ဝမှုအတွက် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Ace of Pentacles represents new financial opportunities, prosperity, and material gain. This card suggests the beginning of a new financial venture or opportunity. It encourages you to be open to new sources of income and material success. The Ace of Pentacles represents the potential for financial growth and stability. This is a time for new financial beginnings and material abundance."
             },
             {
                 "number": 65,
                 "name": "Two of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်နှစ်ချပ်သည် ဟန်ချက်ညီမှု၊ လိုက်လျောညီထွေဖြစ်မှုနှင့် ဦးစားပေးအရာများကို စီမံခန့်ခွဲခြင်းကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင်သည် တာဝန်ဝတ္တရားများစွာ သို့မဟုတ် ငွေကြေးကိစ္စရပ်များကို စီမံခန့်ခွဲနေနိုင်ကြောင်း ညွှန်ပြသည်။ ဟန်ချက်ညီအောင် ထိန်းညှိရန်နှင့် ပြောင်းလဲနေသော အခြေအနေများနှင့် လိုက်လျောညီထွေဖြစ်အောင် နေထိုင်ရန် တိုက်တွန်းထားသည်။ ပင်တကယ်နှစ်ချပ်သည် ပြောင်းလွယ်ပြင်လွယ်ရှိမှုနှင့် အချိန်စီမံခန့်ခွဲမှု၏ လိုအပ်ချက်ကို ကိုယ်စားပြုသည်။ ဤသည်မှာ ဦးစားပေးအရာများကို ဟန်ချက်ညီအောင်ထားခြင်းနှင့် တည်ငြိမ်မှုကို ထိန်းသိမ်းထားရမည့် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Two of Pentacles represents balance, adaptability, and juggling priorities. This card suggests you may be managing multiple responsibilities or financial matters. It encourages you to find balance and adapt to changing circumstances. The Two of Pentacles represents the need for flexibility and time management. This is a time for balancing priorities and maintaining stability."
             },
             {
                 "number": 66,
                 "name": "Three of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်သုံးချပ်သည် အဖွဲ့လိုက်လုပ်ဆောင်မှု၊ လက်မှုပညာနှင့် ကျွမ်းကျင်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ပူးပေါင်းဆောင်ရွက်မှုနှင့် ကျွမ်းကျင်မှုများ ဖွံ့ဖြိုးတိုးတက်ရေးကို ညွှန်ပြသည်။ အခြားသူများနှင့် အတူတကွလုပ်ဆောင်ရန်နှင့် အရည်အသွေးကို အဓိကထားရန် တိုက်တွန်းထားသည်။ ပင်တကယ်သုံးချပ်သည် အဖွဲ့လိုက်လုပ်ဆောင်မှု၏ တန်ဖိုးနှင့် လက်မှုပညာတွင် အာရုံစိုက်မှုကို ကိုယ်စားပြုသည်။ ဤသည်မှာ ပူးပေါင်းဆောင်ရွက်မှုနှင့် ကျွမ်းကျင်မှုများ ဖွံ့ဖြိုးတိုးတက်ရေးအတွက် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Three of Pentacles represents teamwork, craftsmanship, and mastery. This card suggests collaboration and the development of skills. It encourages you to work with others and focus on quality. The Three of Pentacles represents the value of teamwork and dedication to craft. This is a time for collaboration and skill development."
             },
             {
                 "number": 67,
                 "name": "Four of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်လေးချပ်သည် လုံခြုံရေး၊ ထိန်းချုပ်မှုနှင့် ထိန်းသိမ်းစောင့်ရှောက်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ငွေကြေးလုံခြုံရေးနှင့် ရုပ်ဝတ္ထုပိုင်းဆိုင်ရာ တည်ငြိမ်မှုကို အာရုံစိုက်ရန် ညွှန်ပြသည်။ သင့်အရင်းအမြစ်များကို ကာကွယ်ရင်း မျှဝေရန်လည်း ပွင့်လင်းစွာ ထားရှိရန် တိုက်တွန်းထားသည်။ ပင်တကယ်လေးချပ်သည် လုံခြုံရေးနှင့် ရက်ရောမှုအကြား ဟန်ချက်ညီမှုကို ကိုယ်စားပြုသည်။ ဤသည်မှာ ငွေကြေးစီမံကိန်းရေးဆွဲခြင်းနှင့် အရင်းအမြစ်စီမံခန့်ခွဲမှုအတွက် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Four of Pentacles represents security, control, and conservation. This card suggests a focus on financial security and material stability. It encourages you to protect your resources while remaining open to sharing. The Four of Pentacles represents the balance between security and generosity. This is a time for financial planning and resource management."
             },
             {
                 "number": 68,
                 "name": "Five of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်ငါးချပ်သည် ငွေကြေးအခက်အခဲ၊ အထီးကျန်ဖြစ်မှုနှင့် အကူအညီရှာဖွေခြင်းကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင်သည် ငွေကြေးအခက်အခဲများ ကြုံတွေ့နေရခြင်း သို့မဟုတ် ဖယ်ကြဉ်ခံရသည်ဟု ခံစားနေရခြင်းကို ညွှန်ပြသည်။ အထောက်အပံ့ရှာဖွေရန်နှင့် ရရှိနိုင်သော အရင်းအမြစ်များကို အသိအမှတ်ပြုရန် တိုက်တွန်းထားသည်။ ပင်တကယ်ငါးချပ်သည် အခက်အခဲအချိန်များတွင် လူမှုအသိုင်းအဝိုင်း၏ အထောက်အပံ့၏ အရေးပါမှုကို ကိုယ်စားပြုသည်။ ဤသည်မှာ အကူအညီရှာဖွေရန်နှင့် ရရှိနိုင်သော အရင်းအမြစ်များကို အသိအမှတ်ပြုရန် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Five of Pentacles represents financial hardship, isolation, and seeking help. This card suggests you may be experiencing financial difficulties or feeling excluded. It encourages you to seek support and recognize available resources. The Five of Pentacles represents the importance of community support during difficult times. This is a time for seeking help and recognizing available resources."
             },
             {
                 "number": 69,
                 "name": "Six of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်ခြောက်ချပ်သည် ရက်ရောမှု၊ ပရဟိတနှင့် အရင်းအမြစ်များ မျှဝေခြင်းကို ကိုယ်စားပြုသည်။ ဤကတ်သည် အထောက်အပံ့ပေးခြင်းနှင့် လက်ခံရယူခြင်း အချိန်ကာလကို ညွှန်ပြသည်။ ဟန်ချက်ညီမှုကို ထိန်းသိမ်းထားရင်း ရက်ရောစွာ ပေးကမ်းရန် တိုက်တွန်းထားသည်။ ပင်တကယ်ခြောက်ချပ်သည် အရင်းအမြစ်များ စီးဆင်းမှုနှင့် အပြန်အလှန် အထောက်အပံ့ကို ကိုယ်စားပြုသည်။ ဤသည်မှာ အရင်းအမြစ်များ မျှဝေခြင်းနှင့် ရက်ရောမှုကို လက်တွေ့ကျင့်သုံးရန် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Six of Pentacles represents generosity, charity, and sharing resources. This card suggests a time of giving and receiving support. It encourages you to be generous while maintaining balance. The Six of Pentacles represents the flow of resources and mutual support. This is a time for sharing resources and practicing generosity."
             },
             {
                 "number": 70,
                 "name": "Seven of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်ခုနစ်ချပ်သည် အကဲဖြတ်ခြင်း၊ စိတ်ရှည်သည်းခံခြင်းနှင့် ရေရှည်စီမံကိန်းရေးဆွဲခြင်းကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင့်တိုးတက်မှုကို အကဲဖြတ်ရန်နှင့် အနာဂတ်အတွက် စီမံကိန်းရေးဆွဲရန် အချိန်ကာလကို ညွှန်ပြသည်။ စိတ်ရှည်ရန်နှင့် ရေရှည်ပန်းတိုင်များကို စဉ်းစားရန် တိုက်တွန်းထားသည်။ ပင်တကယ်ခုနစ်ချပ်သည် သေချာစွာ စီမံကိန်းရေးဆွဲခြင်းနှင့် အကဲဖြတ်ခြင်း၏ တန်ဖိုးကို ကိုယ်စားပြုသည်။ ဤသည်မှာ တိုးတက်မှုကို အကဲဖြတ်ရန်နှင့် နောက်ထပ်အဆင့်များကို စီမံကိန်းရေးဆွဲရန် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Seven of Pentacles represents assessment, patience, and long-term planning. This card suggests a time to evaluate your progress and plan for the future. It encourages you to be patient and consider long-term goals. The Seven of Pentacles represents the value of careful planning and assessment. This is a time for evaluating progress and planning next steps."
             },
             {
                 "number": 71,
                 "name": "Eight of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်ရှစ်ချပ်သည် ကျွမ်းကျင်မှုဖွံ့ဖြိုးတိုးတက်ရေး၊ အာရုံစိုက်မှုနှင့် လက်မှုပညာကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ကျွမ်းကျင်မှုများ ဖွံ့ဖြိုးတိုးတက်ရေးနှင့် သင့်အလုပ်ကို တိုးတက်အောင် လုပ်ဆောင်ရန် အာရုံစိုက်မှုကို ညွှန်ပြသည်။ ကျွမ်းကျင်မှုနှင့် အရည်အသွေးအတွက် သင့်ကိုယ်သင် အာရုံစိုက်ရန် တိုက်တွန်းထားသည်။ ပင်တကယ်ရှစ်ချပ်သည် ကြိုးစားအားထုတ်မှုနှင့် အသေးစိတ်အာရုံစိုက်မှု၏ တန်ဖိုးကို ကိုယ်စားပြုသည်။ ဤသည်မှာ ကျွမ်းကျင်မှုဖွံ့ဖြိုးတိုးတက်ရေးနှင့် အာရုံစိုက်ထားသော ကြိုးပမ်းမှုအတွက် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Eight of Pentacles represents skill development, dedication, and craftsmanship. This card suggests a focus on developing skills and improving your work. It encourages you to dedicate yourself to mastery and quality. The Eight of Pentacles represents the value of hard work and attention to detail. This is a time for skill development and dedicated effort."
             },
             {
                 "number": 72,
                 "name": "Nine of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်ကိုးချပ်သည် လွတ်လပ်မှု၊ ဇိမ်ခံမှုနှင့် ကိုယ့်အားကိုယ်ကိုးမှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် သင့်ကြိုးစားအားထုတ်မှု၏ အသီးအပွင့်များကို ခံစားရသော အချိန်ကာလကို ညွှန်ပြသည်။ သင့်အောင်မြင်မှုများနှင့် လွတ်လပ်မှုကို တန်ဖိုးထားရန် တိုက်တွန်းထားသည်။ ပင်တကယ်ကိုးချပ်သည် ကြိုးစားအားထုတ်မှုနှင့် ကိုယ့်အားကိုယ်ကိုးမှု၏ ဆုလာဒ်များကို ကိုယ်စားပြုသည်။ ဤသည်မှာ အောင်မြင်မှုနှင့် ကိုယ်ပိုင်လွတ်လပ်ခွင့်ကို ခံစားရန် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Nine of Pentacles represents independence, luxury, and self-sufficiency. This card suggests a time of enjoying the fruits of your labor. It encourages you to appreciate your achievements and independence. The Nine of Pentacles represents the rewards of hard work and self-reliance. This is a time for enjoying success and personal freedom."
             },
             {
                 "number": 73,
                 "name": "Ten of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်ဆယ်ချပ်သည် ကြွယ်ဝချမ်းသာမှု၊ အမွေအနှစ်နှင့် မိသားစုလုံခြုံရေးကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ရေရှည်ငွေကြေးလုံခြုံရေးနှင့် မိသားစုတည်ငြိမ်မှုကို ညွှန်ပြသည်။ ရေရှည်တည်တံ့သော အမွေအနှစ်တစ်ခု တည်ဆောက်ရန် အာရုံစိုက်ရန် တိုက်တွန်းထားသည်။ ပင်တကယ်ဆယ်ချပ်သည် ငွေကြေးဆိုင်ရာ ပန်းတိုင်များ အောင်မြင်မှုနှင့် မိသားစုကြွယ်ဝချမ်းသာမှုကို ကိုယ်စားပြုသည်။ ဤသည်မှာ သင့်အနာဂတ်ကို လုံခြုံအောင်လုပ်ဆောင်ရန်နှင့် ရေရှည်တည်တံ့သော ကြွယ်ဝချမ်းသာမှုကို တည်ဆောက်ရန် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Ten of Pentacles represents wealth, legacy, and family security. This card suggests long-term financial security and family stability. It encourages you to focus on building a lasting legacy. The Ten of Pentacles represents the achievement of financial goals and family prosperity. This is a time for securing your future and building lasting wealth."
             },
             {
                 "number": 74,
                 "name": "Page of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်စာမျက်နှာသည် သင်ယူခြင်း၊ အခွင့်အလမ်းအသစ်များနှင့် လက်တွေ့ကျသော ကျွမ်းကျင်မှုများကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ကျွမ်းကျင်မှုအသစ်များ ဖွံ့ဖြိုးတိုးတက်ရေးနှင့် အခွင့်အလမ်းများကို စူးစမ်းလေ့လာရန် အချိန်ကာလကို ညွှန်ပြသည်။ သင်ယူခြင်းနှင့် လက်တွေ့ဖွံ့ဖြိုးတိုးတက်ရေးအတွက် ပွင့်လင်းစွာ လက်ခံရန် တိုက်တွန်းထားသည်။ ပင်တကယ်စာမျက်နှာသည် လက်တွေ့အသိပညာနှင့် ကျွမ်းကျင်မှုဖွံ့ဖြိုးတိုးတက်ရေး၏ အစကို ကိုယ်စားပြုသည်။ ဤသည်မှာ သင်ယူခြင်းနှင့် အခွင့်အလမ်းအသစ်များကို စူးစမ်းလေ့လာရန် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Page of Pentacles represents learning, new opportunities, and practical skills. This card suggests a time of developing new skills and exploring opportunities. It encourages you to be open to learning and practical development. The Page of Pentacles represents the beginning of practical knowledge and skill development. This is a time for learning and exploring new opportunities."
             },
             {
                 "number": 75,
                 "name": "Knight of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်သူရဲကောင်းသည် တာဝန်ယူမှု၊ ကြိုးစားအားထုတ်မှုနှင့် စနစ်တကျ တိုးတက်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် တည်ငြိမ်သော တိုးတက်မှုနှင့် အာရုံစိုက်ထားသော ကြိုးပမ်းမှု အချိန်ကာလကို ညွှန်ပြသည်။ သင့်အလုပ်တွင် သေချာစွာနှင့် ယုံကြည်စိတ်ချရအောင် လုပ်ဆောင်ရန် တိုက်တွန်းထားသည်။ ပင်တကယ်သူရဲကောင်းသည် စဉ်ဆက်မပြတ် ကြိုးပမ်းမှုနှင့် တာဝန်ယူမှု၏ တန်ဖိုးကို ကိုယ်စားပြုသည်။ ဤသည်မှာ တည်ငြိမ်သော တိုးတက်မှုနှင့် ယုံကြည်စိတ်ချရသော လုပ်ဆောင်မှုအတွက် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Knight of Pentacles represents responsibility, hard work, and methodical progress. This card suggests a time of steady progress and dedicated effort. It encourages you to be thorough and reliable in your work. The Knight of Pentacles represents the value of consistent effort and responsibility. This is a time for steady progress and reliable action."
             },
             {
                 "number": 76,
                 "name": "Queen of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်ဘုရင်မသည် ပြုစုစောင့်ရှောက်ခြင်း၊ လက်တွေ့ကျမှုနှင့် ငွေကြေးလုံခြုံရေးကို ကိုယ်စားပြုသည်။ ဤကတ်သည် အခြားသူများအတွက် ပံ့ပိုးပေးခြင်းနှင့် အရင်းအမြစ်များကို ဉာဏ်ရည်ဉာဏ်သွေးဖြင့် စီမံခန့်ခွဲခြင်း အချိန်ကာလကို ညွှန်ပြသည်။ လက်တွေ့ကျမှုနှင့် ပြုစုစောင့်ရှောက်မှုကို ဟန်ချက်ညီစွာ ထိန်းသိမ်းရန် တိုက်တွန်းထားသည်။ ပင်တကယ်ဘုရင်မသည် လက်တွေ့ကျသော ဉာဏ်ပညာနှင့် စောင့်ရှောက်မှု၏ ရင့်ကျက်သော ဖော်ပြချက်ကို ကိုယ်စားပြုသည်။ ဤသည်မှာ အရင်းအမြစ်များကို စီမံခန့်ခွဲခြင်းနှင့် ပံ့ပိုးမှုပေးခြင်းအတွက် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The Queen of Pentacles represents nurturing, practicality, and financial security. This card suggests a time of providing for others and managing resources wisely. It encourages you to balance practicality with nurturing care. The Queen of Pentacles represents the mature expression of practical wisdom and care. This is a time for managing resources and providing support."
             },
             {
                 "number": 77,
                 "name": "King of Pentacles",
+                "fullReadingBurmese": "ပင်တကယ်ဘုရင်သည် ကြွယ်ဝမှု၊ လုံခြုံရေးနှင့် လက်တွေ့ကျသော ဦးဆောင်မှုကို ကိုယ်စားပြုသည်။ ဤကတ်သည် ငွေကြေးအောင်မြင်မှုနှင့် လက်တွေ့ကျသော ဉာဏ်ပညာ အချိန်ကာလကို ညွှန်ပြသည်။ လက်တွေ့ကျသော အသိပညာနှင့် ငွေကြေးဆိုင်ရာ ကျွမ်းကျင်မှုဖြင့် ဦးဆောင်ရန် တိုက်တွန်းထားသည်။ ပင်တကယ်ဘုရင်သည် ရုပ်ဝတ္ထုအရင်းအမြစ်များနှင့် လက်တွေ့ကျသော ဦးဆောင်မှု၏ ကျွမ်းကျင်မှုကို ကိုယ်စားပြုသည်။ ဤသည်မှာ ငွေကြေးဆိုင်ရာ ဦးဆောင်မှုနှင့် လက်တွေ့ကျသော ဆုံးဖြတ်ချက်ချခြင်းအတွက် အချိန်ကာလဖြစ်သည်။",
                 "fullReading": "The King of Pentacles represents abundance, security, and practical leadership. This card suggests a time of financial success and practical wisdom. It encourages you to lead with practical knowledge and financial acumen. The King of Pentacles represents the mastery of material resources and practical leadership. This is a time for financial leadership and practical decision-making."
             }
         ]

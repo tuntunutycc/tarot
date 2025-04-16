@@ -5,6 +5,7 @@ let currentReadings = {
     present: null,
     future: null
 };
+let drawnCards = []; // Track drawn cards
 
 // Load the tarot cards data
 fetch('tarot_cards.json')
@@ -76,9 +77,23 @@ function getRandomCard() {
         ...tarotDeck.minor_arcana.pentacles
     ];
 
-    // Get a random card
-    const randomIndex = Math.floor(Math.random() * allCards.length);
-    return allCards[randomIndex];
+    // Filter out already drawn cards
+    const availableCards = allCards.filter(card => !drawnCards.includes(card));
+
+    // If no cards are available, reset the drawn cards array
+    if (availableCards.length === 0) {
+        drawnCards = [];
+        return getRandomCard();
+    }
+
+    // Get a random card from available cards
+    const randomIndex = Math.floor(Math.random() * availableCards.length);
+    const selectedCard = availableCards[randomIndex];
+    
+    // Add the selected card to drawn cards
+    drawnCards.push(selectedCard);
+    
+    return selectedCard;
 }
 
 function flipCard(card, position) {
@@ -200,4 +215,32 @@ function resetCards() {
     }, 500); // Match the transition duration
     
     document.getElementById('readingDisplay').style.display = 'none';
+}
+
+function resetDrawnCards() {
+    drawnCards = [];
+}
+
+function drawCards() {
+    // Reset drawn cards when starting a new reading
+    resetDrawnCards();
+    
+    // Clear previous cards
+    const cardContainer = document.getElementById('cardContainer');
+    cardContainer.innerHTML = '';
+    
+    // Hide reading display
+    document.getElementById('readingDisplay').style.display = 'none';
+    
+    // Create three card placeholders
+    for (let i = 0; i < 3; i++) {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.dataset.position = i;
+        card.addEventListener('click', () => revealCard(i));
+        cardContainer.appendChild(card);
+    }
+    
+    // Reset selected cards
+    selectedCards = [null, null, null];
 }
